@@ -8,7 +8,7 @@
 - Aprendizaje continuo sobre nuevas técnicas y herramientas de seguridad.
 - Programación en Python y desarrollo de scripts para la automatización de tareas.
 - Estudio de Bash para la administración de sistemas.
-- 
+  
 ### 💻 Lenguajes y Tecnologías
 
 - **Lenguajes de Programación**: Python, Bash
