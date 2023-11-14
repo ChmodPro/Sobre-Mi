@@ -17,8 +17,8 @@
 
 ### 🏅 Certificaciones
 
- (En un futuro) eJPTv2
- (En un futuro) eWPT
+- (En un futuro) eJPTv2
+- (En un futuro) eWPT
  
 ### 📬 Contacto
 - Email: niljoan44@gmail.com
