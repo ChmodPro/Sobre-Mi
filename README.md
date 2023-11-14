@@ -11,9 +11,9 @@
 - 
 ### 💻 Lenguajes y Tecnologías
 
-- Lenguajes de Programación: Python, Bash
-- Ciberseguridad: Pentesting, Análisis de Vulnerabilidades
-- Herramientas de Seguridad: Burp Suite, Nmap, Wfuzz, Hydra, ...
+- **Lenguajes de Programación**: Python, Bash
+- **Ciberseguridad:** Pentesting, Análisis de Vulnerabilidades
+- **Herramientas de Seguridad:** Burp Suite, Nmap, Wfuzz, Hydra, ...
 
 ### 🏅 Certificaciones
 
