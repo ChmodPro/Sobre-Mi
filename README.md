@@ -1,5 +1,4 @@
-# mystic.github.io
-### 🧑‍🎓 Acerca de mí
+# 🧑‍🎓 Acerca de mí
 
 ¡Hola! Soy nil, un entusiasta de la ciberseguridad y estudiante de sistemas micro informáticos y redes estudiante de CFGM Sistemas Microinformaticos y Redes. Mi pasión por la ciberseguridad me ha llevado a entrar en el mundo del pentesting. Mi objetivo es seguir avanzando en mi carrera en ciberseguridad y obtener la certificación EJPTv2 en un futuro temprano.
 ### 🎯 Mis Intereses
