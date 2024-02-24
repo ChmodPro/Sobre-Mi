@@ -1,23 +1,25 @@
-# 🧑‍🎓 Acerca de mí
+# 🧑‍🎓 About Me
 
-¡Hola! Soy nil, un entusiasta de la ciberseguridad y estudiante de sistemas micro informáticos y redes estudiante de CFGM Sistemas Microinformaticos y Redes. Mi pasión por la ciberseguridad me ha llevado a entrar en el mundo del pentesting. Mi objetivo es seguir avanzando en mi carrera en ciberseguridad y obtener la certificación EJPTv2 en un futuro temprano.
-### 🎯 Mis Intereses
+Hey there! I'm nil, a cybersecurity enthusiast and a student of Microcomputer Systems and Networks in the CFGM Microcomputer Systems and Networks program. My passion for cybersecurity has led me into the realm of pentesting. My goal is to keep advancing in my cybersecurity career and achieve the EJPTv2 certification in the near future.
 
-- Ciberseguridad ofensiva (Pentesting).
-- Aprendizaje continuo sobre nuevas técnicas y herramientas de seguridad.
-- Programación en Python y desarrollo de scripts para la automatización de tareas.
-- Estudio de Bash para la administración de sistemas.
+
+### 🎯 My Interests
+
+- Offensive Cybersecurity (Pentesting).
+- Continuous learning about new security techniques and tools.
+- Python programming and scripting for task automation.
+- Bash for system administration.
+
   
-### 💻 Lenguajes y Tecnologías
+### 💻 Languages and Technologies
 
-- **Lenguajes de Programación**: Python, Bash
-- **Ciberseguridad:** Pentesting, Análisis de Vulnerabilidades
-- **Herramientas de Seguridad:** Burp Suite, Nmap, Wfuzz, Hydra, ...
+- **Programming Languages:** Python, Bash
+- **Cybersecurity:** Pentesting, Vulnerability Analysis
+- **Security Tools:** Burp Suite, Nmap, Wfuzz, Hydra, ...
 
-### 🏅 Certificaciones
+### 🏅 Certifications
 
-- (En un futuro) eJPTv2
-- (En un futuro) eWPT
+- (Coming soon) eJPTv2
  
-### 📬 Contacto
+### 📬 Contact
 - Email: niljoan44@gmail.com
