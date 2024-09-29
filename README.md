@@ -22,4 +22,4 @@ Hey there! I'm nil, a cybersecurity enthusiast and a student of Microcomputer Sy
 - (Coming soon) eJPTv2
  
 ### 📬 Contact
-- Email: niljoan44@gmail.com
+- Email: name@domain.com
